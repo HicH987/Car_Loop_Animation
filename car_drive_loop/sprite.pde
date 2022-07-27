@@ -1,8 +1,9 @@
 class Sprite {
+
   float x, y, w, speed, index, yStart;
   int len;
   ArrayList<PImage> animation;
-  
+
   Sprite(ArrayList<PImage> animation_, float x_, float y_) {
     x = x_;
     y = y_;
@@ -21,5 +22,4 @@ class Sprite {
   void animate(float speed) {
     this.index += speed;
   }
-
 }
