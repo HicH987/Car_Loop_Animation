@@ -6,9 +6,7 @@ The aim of this project was to make 2d animation video with processing. The real
 
 The video below shows the recorded result
 
-<video width="320" height="240" muted controls>
-  <source src="./sketch_video/synthwave_outrun.mp4">
-</video>
+https://user-images.githubusercontent.com/62667537/182773793-05b4d73c-f029-4861-80a9-916dcfca1eb0.mp4
 
 ****
 
