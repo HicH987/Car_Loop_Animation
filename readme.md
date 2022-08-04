@@ -57,6 +57,6 @@ ____car_drive_loop
 
 - Hit R to start recording frames in the output directory
 
-- Use those frames + mp3 file in processing movie maker to make video output
+- Use those frames + mp3 file in processing movie maker to make video **output**
 
 
